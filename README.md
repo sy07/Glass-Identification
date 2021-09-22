@@ -42,12 +42,12 @@ Then I trained models using X and y.
 - Accuracy: 0.67
 
 3) Decision Tree
-- Trained data using *decision tree* with default hyperparameter
+- Trained data using *Decision Tree* with default hyperparameter
 - F1 score 0.65,0.59,0.00,0.00,0.50,0.89
 - Accuracy: 0.61
 
 4) Random Forest
-- Trained data on logistic regression with hyperparameter max_iter=5000, solver=saga
+- Trained data using *Random Forest* with default hyperparameter
 - F1 score 0.62,0.73,0.33,0.00,0.67,0.84
 - Accuracy: 0.69
 
